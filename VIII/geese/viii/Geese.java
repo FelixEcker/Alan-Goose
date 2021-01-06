@@ -36,16 +36,16 @@ public class Geese implements Runnable
                 System.out.println(".");
             }
             else if (in.matches("how long")) {
-                System.out.println("1989");
+                System.out.println("1989"); // Possible founding date
             }
             else if (in.matches("what")) {
-                System.out.println("Group endevering everlasting simultaneous extending ; GEESE");
+                System.out.println("Group endevering everlasting simultaneous extending ; GEESE"); // ??
             }
             else if (in.matches("relations")) {
                 System.out.println("No");
             }
             else if (in.matches("music")) {
-                System.out.println("messages through music. all music created by alan. +xmmpA8MeP9T+vF+z6+2PHuoGXPiHU8j");
+                System.out.println("messages through music. all music created by alan. +xmmpA8MeP9T+vF+z6+2PHuoGXPiHU8j"); // Code means Copyright19892021 decrypted with Common Key
             }
             else if (in.matches("java")) {
                 System.out.println("1.8_u211");
